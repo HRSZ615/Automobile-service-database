@@ -1,10 +1,8 @@
 # Automobile Repair & Service History Database
 
 ## Overview
-This project presents a fully functioning centralized automobile repair and service history database, built in Microsoft Access as part of BUS 385 — Business Data Management at Farmingdale State College. The database addresses a core operational problem in the auto repair industry: scattered service records, disconnected customer data, and the absence of business analytics — all managed through a structured relational database and a library of 12 SQL queries.
+This project presents a fully functioning centralized automobile repair and service history database, built in Microsoft Access. The database addresses a core operational problem in the auto repair industry: scattered service records, disconnected customer data, and the absence of business analytics — all managed through a structured relational database and a library of 12 SQL queries.
 
-## Role
-**Testing and Documentation Lead** — responsible for validating query accuracy, documenting the full SQL query library, and producing the final project report.
 
 ## Dataset
 - **Source:** [Motor Vehicle Repair & Towing Dataset — Kaggle](https://www.kaggle.com/datasets/aryan208/motor-vehicle-repair-and-towing-dataset)
